@@ -1,4 +1,4 @@
-<h1>Judul Proyek</h1>
+<h1>Tugas1 Makanan Online</h1>
  
 <h2>Nama Anggota Kelompok:</h2>
 1.  <b>Adinda Chandra Dimitri</b> 	(2305551055)<br>
@@ -20,7 +20,7 @@ ADMIN:<br>
 
 CUSTOMER:<br>
 <code>username_user = "username"</code><br>
-<code>password_user = "password"</code><br>
+<code>password_user = "username"</code><br>
 
 
 <h2>Tampilan Menu:</h2>
